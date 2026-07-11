@@ -1,7 +1,7 @@
 <header>
   <img width="1560" height="480" alt="Course Banner" src="https://github.com/user-attachments/assets/f6ddcc7a-482a-433d-a30d-93b74740124d" />
   <h1 align="center">CPE 031 - Visualizations and Data Analysis</h1>
-  <p align="center">Welcome to my github repository for course CPE 031.</p>
+  <p align="center">This repository is intended as a portfolio for course CPE 031. This will include HOAs, projects, and other related activities to the course.</p>
 </header>
 
 ---
@@ -11,6 +11,7 @@
 | | |
 |---|---|
 | **Name** | Christine Mae P. Antonio |
+| **Program** | Computer Engineering |
 | **Student Number** | 2515041 |
 | **Section** | CPE21S1 |
 
