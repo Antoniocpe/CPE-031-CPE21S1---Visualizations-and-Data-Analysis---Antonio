@@ -4,7 +4,7 @@
 
 <header>
   <img width="1560" height="480" alt="image" src="https://github.com/user-attachments/assets/f6ddcc7a-482a-433d-a30d-93b74740124d" />
-  
+  <h1 >CPE 031</h1>
 </header>
 
 ## About Me
