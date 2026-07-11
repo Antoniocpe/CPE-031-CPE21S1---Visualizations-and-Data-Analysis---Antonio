@@ -21,3 +21,9 @@
 - [README](https://github.com/Antoniocpe/CPE-031-CPE21S1---Visualizations-and-Data-Analysis---Antonio/blob/main/README.md)
 
 *more activities will be added as the course progresses.*
+
+---
+
+## 🔗 Links
+
+[My GitHub](https://github.com/Antoniocpe)
